@@ -29,13 +29,13 @@ choices = [scissors, rock, paper]
 
 '''
 Font Handling
-Font can be accessed in the Assets Folder
+Font can be accessed in the Fonts Folder
 '''
 white = (255, 255, 255)
 yellow = (255, 204, 55)
 
 def pixelFont(size) :
-    font = pygame.font.Font("Interactive Python App\Assets\Symtext.ttf", size)
+    font = pygame.font.Font("Interactive Python App\Rock Paper Scissors game\Fonts\Symtext.ttf", size)
     return font
 
 def write(text, font, textColor, x, y) :
