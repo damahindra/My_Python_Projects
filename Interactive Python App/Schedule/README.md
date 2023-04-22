@@ -1,4 +1,10 @@
-# Welcome to My Python Projects!
-These are all my python projects starting from beginner levels to intermediate levels. Some are inspired from Youtube and some are just-for-fun projects that came at the top of my head. Feel free to look around!
+# In This Project...
+As we know sometimes it's hard to remember school/college schedules when it's the new semester. So, instead of repeatedly checking your phone for checking the schedule, I made this simple GUI which is a schedule displayer. All the user need to do is input the subjects and times in this code and this simple GUI can display the schedules based on the day the user inputted on the home screen.
 
-Note : Every Project has assets that are needed such as fonts or sound effects. I have included them in each project's folder, enjoy!
+Screenshots :
+
+![image](https://user-images.githubusercontent.com/105963394/233784227-c571ba66-ad7d-4163-b183-0117c2acba36.png)
+
+![image](https://user-images.githubusercontent.com/105963394/233784243-11d748f7-64ba-4064-8191-31ceae5b5db3.png)
+
+![image](https://user-images.githubusercontent.com/105963394/233784254-4aed7b30-2ed3-409f-b880-aabbb008dfc9.png)
