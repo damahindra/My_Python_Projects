@@ -4,7 +4,9 @@ jadwalKuliah = ["senin", "selasa", "rabu", "kamis", "jumat"] # days
 
 # customizable schedules
 
-senin = {"subject" : "time"}
+senin = {"subject1" : "time1",
+         "subject2" : "time2",
+         "subject3" : "time3"}
 
 selasa = {"subject" : "time"}
 
